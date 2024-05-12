@@ -1,9 +1,9 @@
 package com.sample.design.patterns.factoryPattern.vehical;
 
-import com.sample.design.patterns.factoryPattern.AirPlane;
+import com.sample.design.patterns.factoryPattern.impl.AirPlane;
 import com.sample.design.patterns.factoryPattern.interfaces.Automobile;
-import com.sample.design.patterns.factoryPattern.Bus;
-import com.sample.design.patterns.factoryPattern.Ship;
+import com.sample.design.patterns.factoryPattern.impl.Bus;
+import com.sample.design.patterns.factoryPattern.impl.Ship;
 
 public class Vehical {
 

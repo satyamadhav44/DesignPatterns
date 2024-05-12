@@ -1,4 +1,4 @@
-package com.sample.design.patterns.factoryPattern;
+package com.sample.design.patterns.factoryPattern.impl;
 
 import com.sample.design.patterns.factoryPattern.interfaces.Automobile;
 
