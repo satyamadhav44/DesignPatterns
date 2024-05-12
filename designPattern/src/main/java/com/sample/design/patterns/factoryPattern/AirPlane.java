@@ -1,5 +1,8 @@
 package com.sample.design.patterns.factoryPattern;
-public class AirPlane implements Automobile{
+
+import com.sample.design.patterns.factoryPattern.interfaces.Automobile;
+
+public class AirPlane implements Automobile {
     @Override
     public void fuelType() {
         System.out.println("fuel type is aero fuel");

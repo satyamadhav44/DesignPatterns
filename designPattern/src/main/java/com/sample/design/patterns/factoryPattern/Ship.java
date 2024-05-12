@@ -1,5 +1,7 @@
 package com.sample.design.patterns.factoryPattern;
 
+import com.sample.design.patterns.factoryPattern.interfaces.Automobile;
+
 public class Ship implements Automobile {
     @Override
     public void fuelType() {

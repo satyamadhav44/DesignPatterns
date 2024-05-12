@@ -1,7 +1,7 @@
 package com.sample.design.patterns.factoryPattern.vehical;
 
 import com.sample.design.patterns.factoryPattern.AirPlane;
-import com.sample.design.patterns.factoryPattern.Automobile;
+import com.sample.design.patterns.factoryPattern.interfaces.Automobile;
 import com.sample.design.patterns.factoryPattern.Bus;
 import com.sample.design.patterns.factoryPattern.Ship;
 
